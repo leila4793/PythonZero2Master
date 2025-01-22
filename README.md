@@ -15,18 +15,6 @@
 
 ---
 
-#### Table of Contents:
-
-**Creating Issues for a Python Programming and Machine Learning Repository**
-
----
-
-### Python Basics Section
-
-**Creating Issues for a Python Programming and Machine Learning Repository**
-
----
-
 ### Python Basics Section
 
 #### Table of Contents:
