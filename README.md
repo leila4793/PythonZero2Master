@@ -75,11 +75,11 @@
    - Importance and applications of ML
    - Issue: "Create an introduction to machine learning with examples in Python"
 
-2. **Data Preprocessing and Cleaning**
-   - Handling missing values
-   - Encoding categorical variables
-   - Data scaling and normalization
-   - Issue: "Write a guide on data preprocessing techniques in Python"
+2. ~~**Data Preprocessing and Cleaning**~~`(https://github.com/leila4793/PythonZero2Master/blob/main/Preprocessing_Data.ipynb)`
+   - ~~Handling missing values~~
+   - ~~Encoding categorical variables~~
+   - ~~Data scaling and normalization~~
+   - ~~Issue: "Write a guide on data preprocessing techniques in Python"~~
 
 3. **Exploratory Data Analysis (EDA)**
    - Data visualization techniques
